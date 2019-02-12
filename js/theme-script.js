@@ -68,8 +68,6 @@ $('.owl-carousel').each( function() {
 
   $carousel.owlCarousel({
     items : $carousel.data("items"),
-    animateOut: 'fadeOut',
-    animateIn: 'fadeInRight',
     slideBy : $carousel.data("slideby"),
     center : $carousel.data("center"),
     loop : true,

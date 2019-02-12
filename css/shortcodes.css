@@ -1259,10 +1259,10 @@
 
 .section-title h6:before {
   position: absolute;
-  left: 36%;
+  left: 33%;
   width: 23px;
   margin: 0 auto;
-  top: 38px;
+  top: 43px;
   height: 100%;
   content: "";
   background-image: url(../images/pattern/under_line.png);
